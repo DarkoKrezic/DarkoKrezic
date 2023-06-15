@@ -5,7 +5,7 @@
 
 
 Ich bin **Darko**, ein :
-- *:computer: upcoming Web Developer*,
+- *:computer: Web Developer*,
 - *:notes: Musiker  und :basketball: veteran Baller.*
 
 
